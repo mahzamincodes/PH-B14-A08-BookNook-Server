@@ -4,7 +4,7 @@ BookNook Server is the backend of the BookNook online library platform. It provi
 
 ## 🌐 Live API
 
-[Visit BookNook Server](https://booknook-server-peach.vercel.app/)
+[Visit BookNook Server](https://booknook-server-peach.vercel.app/books)
 
 ## 🔗 Project Repositories
 
